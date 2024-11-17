@@ -66,6 +66,14 @@ Midjourney：
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos 
 (power point), para diagramação.
 
+---
+
+## 📄 Artigo
+
+Confira também o [artigo completo](https://github.com/LiliBR-tech/prompts-recipe-to-create-a-ebook-lilianbr/blob/main/output/Artigo%20Asoka.pdf).com detalhes sobre a criação do eBook e o processo de desenvolvimento, incluindo dicas e aprendizados adquiridos ao longo do projeto.
+
+---
+
 ## 👨‍💻 Redes Sociais
 
 <p>
